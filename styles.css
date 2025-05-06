@@ -1,1 +1,7 @@
-/*  your css code here. If applicable */
+*{
+	 background-color: #dce3da
+}
+table{
+	border:1px solid black;
+	border-collapse:collapse;
+}
